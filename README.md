@@ -59,3 +59,9 @@ Here's the game flow:
 - Clone the repo git clone ```https://github.com/rd9437/gamifiedquiz```
 - Install dependencies ```pnpm install```
 - Start the dev server ```pnpm dev```
+
+## Demo
+
+https://github.com/user-attachments/assets/5de0e63d-326c-474b-b5a7-83e04fa74a93
+
+
